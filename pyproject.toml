@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-instructir"
+description = "Enhancing Image Restoration. (ref:[a/InstructIR](https://github.com/mv-lab/InstructIR))"
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/zhongpei/ComfyUI-InstructIR"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI-InstructIR"
+Icon = ""
